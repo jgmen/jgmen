@@ -1,6 +1,4 @@
-# Hello 👋
-
-Recreational programmer 🍇  
+Recreational programming enjoyer 🍇 
 Focused on **C**, systems, and low-level development
 
 
