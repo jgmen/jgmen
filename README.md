@@ -1,4 +1,4 @@
-## Recreational Programming Enjoyer 🍇
+## Programming Enjoyer 🍇
 Focused on **C/C++**, systems, and low-level development.
 
 ## 🌱 Currently Exploring
